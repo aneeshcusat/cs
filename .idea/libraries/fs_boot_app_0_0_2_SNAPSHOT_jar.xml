@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="fs-boot-app-0.0.2-SNAPSHOT.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/fs-app/fs-boot-app-0.0.2-SNAPSHOT.jar.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

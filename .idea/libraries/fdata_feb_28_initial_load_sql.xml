@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="fdata_feb_28_initial_load.sql">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/data/fdata_feb_28_initial_load.sql.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

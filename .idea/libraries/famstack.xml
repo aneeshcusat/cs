@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="famstack">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/fui/famstack.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
